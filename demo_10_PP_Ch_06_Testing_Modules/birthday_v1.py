@@ -99,13 +99,19 @@ def get_birthday_weekday(current_weekday: int, current_day: int,
 
 
 if __name__ == "__main__":
-    print("I am the main program.")
+    print("Running main program for module birthday_v1.")
 else:
-    print("Another module is importing me.")
+    print("importing module birthday_v1.")
 
  
-
-
+import doctest
+doctest.testmod()
 ##################################################
 # End
 ##################################################
+'boolean'.upper()
+
+'CO2 H20'.find('2',3)
+
+x = 'Boolean'
+x[0].islower()

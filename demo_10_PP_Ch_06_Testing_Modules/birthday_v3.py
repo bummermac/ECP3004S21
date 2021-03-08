@@ -91,6 +91,16 @@ def get_birthday_weekday(current_weekday: int, current_day: int,
     return get_weekday(current_weekday, days_diff)
 
 
+
+if __name__ == "__main__":
+    print("Running main program for module birthday_v3.")
+else:
+    print("importing module birthday_v3.")
+
+
+
 ##################################################
 # End
 ##################################################
+import doctest
+doctest.testmod()
