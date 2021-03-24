@@ -34,7 +34,10 @@ Don't worry about test cases that fail in the smaller decimal points.
 It is fine as long as your answer is accurate to several decimals. 
 
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> b547526f67c43d0fe65376f280e8f2e31939c3e0
 
 ## New Files for Solutions and Grading
 
@@ -78,5 +81,8 @@ If there is a failure in your script, it only defines the functions
 before the failure, so all later test cases will fail. 
 
 
+<<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> b547526f67c43d0fe65376f280e8f2e31939c3e0

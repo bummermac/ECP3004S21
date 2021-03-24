@@ -19,7 +19,10 @@ Don't worry about test cases that fail in the smaller decimal points.
 It is fine as long as your answer is accurate to several decimals. 
 
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> b547526f67c43d0fe65376f280e8f2e31939c3e0
 ## Finding Good Test Cases
 
 Good test cases have two main characteristics:
@@ -112,5 +115,8 @@ Note that there may still be several error messages because
 I tested a number of versions of the formats of the inputs, 
 to see if your script worked for *some* version 
 but it didn't have to work for all versions. 
+<<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> b547526f67c43d0fe65376f280e8f2e31939c3e0
